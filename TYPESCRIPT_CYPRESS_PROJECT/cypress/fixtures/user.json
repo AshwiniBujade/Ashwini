@@ -1,0 +1,11 @@
+{
+    "createUser":{
+        "firstName":"Adract",
+        "lastName":"agency",
+        "lang":"en",
+        "belongsToCampany":"3M (Schweiz) GmbH",
+        "role":"regular",
+        "email":"Adract@gmail.com"
+
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "campaign001": {
+        "campaignType": "Contact",
+         "budget":1000,
+        "max_cpm": 2000,
+        "title": "test",
+        "price": 1000,
+        "description": "value added service",
+        "gender":" Male ",
+        "benificiary":"3M (Schweiz) GmbH",
+        "contacts":24,
+        "invoice":"Adtrac"
+    }
+}
